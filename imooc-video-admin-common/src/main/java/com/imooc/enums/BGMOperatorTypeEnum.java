@@ -2,7 +2,7 @@ package com.imooc.enums;
 
 public enum BGMOperatorTypeEnum {
 	
-	ADD("1", "添加bgm"),				
+	ADD("1", "添加bgm"),		 		
 	DELETE("2", "删除bgm");		
 	
 	public final String type;
